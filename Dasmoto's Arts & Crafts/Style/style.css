@@ -1,0 +1,19 @@
+
+
+.image {background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg") ;
+background-size: cover;
+  background-position: center;
+  height: 150px;
+}
+
+.title {font-family: helvetica ; color: gold ; font-size: 100px ; text-align: center ; position : relative ;  top: 14% ; }
+
+.nameparagraphs {font-family: helvetica  ; background-color: lightgreen;  color: white ; height: 35px; font-size: 30px;}
+
+.priceindication {color: blue; font-weight: bold; }
+
+.color1 {background-color: lightgreen; }
+.color2 {background-color: lightpink ;}
+.color3 {background-color: lightblue; }
+
+h3 , p  {font-family: helvetica ;}
